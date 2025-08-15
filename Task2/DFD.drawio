@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
+  <diagram name="Страница — 1" id="haftADTpOr3qEOr5iSau">
+    <mxGraphModel dx="1782" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-34" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="YC6nsLW3_4V7KnLSMy3A-2" target="YC6nsLW3_4V7KnLSMy3A-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-35" value="Data Products" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="YC6nsLW3_4V7KnLSMy3A-34">
+          <mxGeometry x="0.0593" y="-3" relative="1" as="geometry">
+            <mxPoint x="23" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-2" value="Интеграционный домен" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;startArrow=classic;startFill=1;" edge="1" parent="1" source="YC6nsLW3_4V7KnLSMy3A-3" target="YC6nsLW3_4V7KnLSMy3A-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-20" value="События для аналитики&lt;div&gt;/Legacy CDC&amp;nbsp;&lt;/div&gt;&lt;div&gt;для миграций&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="YC6nsLW3_4V7KnLSMy3A-15">
+          <mxGeometry x="0.1806" relative="1" as="geometry">
+            <mxPoint x="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-3" value="Медицинский домен" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;startArrow=classic;startFill=1;" edge="1" parent="1" source="YC6nsLW3_4V7KnLSMy3A-4" target="YC6nsLW3_4V7KnLSMy3A-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-18" value="События для аналитики&lt;div&gt;/Legacy CDC&amp;nbsp;&lt;/div&gt;&lt;div&gt;для миграций&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="YC6nsLW3_4V7KnLSMy3A-14">
+          <mxGeometry x="-0.4931" y="1" relative="1" as="geometry">
+            <mxPoint x="-39" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-4" value="Финтех домен" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-5" value="Аналитический домен" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="YC6nsLW3_4V7KnLSMy3A-6" target="YC6nsLW3_4V7KnLSMy3A-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-8" value="Данные профилей" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="YC6nsLW3_4V7KnLSMy3A-7">
+          <mxGeometry x="-0.5153" y="1" relative="1" as="geometry">
+            <mxPoint x="-23" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="YC6nsLW3_4V7KnLSMy3A-6" target="YC6nsLW3_4V7KnLSMy3A-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-10" value="Данные профилей" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="YC6nsLW3_4V7KnLSMy3A-9">
+          <mxGeometry x="-0.3222" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;startArrow=classic;startFill=1;" edge="1" parent="1" source="YC6nsLW3_4V7KnLSMy3A-6" target="YC6nsLW3_4V7KnLSMy3A-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-21" value="События для аналитики&lt;div&gt;/Legacy CDC&amp;nbsp;&lt;/div&gt;&lt;div&gt;для миграций&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="YC6nsLW3_4V7KnLSMy3A-16">
+          <mxGeometry x="0.0111" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-6" value="Пользовательский домен" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-24" value="Data Flow Diagram - Междоменные потоки данных" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-29" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="YC6nsLW3_4V7KnLSMy3A-27" target="YC6nsLW3_4V7KnLSMy3A-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-31" value="CDC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="YC6nsLW3_4V7KnLSMy3A-29">
+          <mxGeometry x="0.2333" y="2" relative="1" as="geometry">
+            <mxPoint x="-60" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-37" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="YC6nsLW3_4V7KnLSMy3A-27" target="YC6nsLW3_4V7KnLSMy3A-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="460" />
+              <mxPoint x="610" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-38" value="Legacy данные" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="YC6nsLW3_4V7KnLSMy3A-37">
+          <mxGeometry x="-0.2197" relative="1" as="geometry">
+            <mxPoint x="59" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YC6nsLW3_4V7KnLSMy3A-27" value="Легаси домен" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
